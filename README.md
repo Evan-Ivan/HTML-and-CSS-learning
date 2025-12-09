@@ -1,4 +1,4 @@
-# HTML-and-CSS-learning
+# Git-and-GitHub-learning
 This is my HTML and CSS learning. 
 <br>
 Author - Evan Bir Karmacharya
